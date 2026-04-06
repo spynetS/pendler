@@ -1,7 +1,5 @@
-#include <stdio.h>
-#include "./raylib-5.5_linux_amd64/include/raylib.h"
-#include "./raylib-5.5_linux_amd64/include/raymath.h"
-#include <math.h>
+#include "raylib.h"
+#include "raymath.h"
 
 #define WINDOW_WIDTH  1225
 #define WINDOW_HEIGHT 800
